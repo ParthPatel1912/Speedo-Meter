@@ -1,0 +1,25 @@
+The speedometer is a speed measuring app that uses built-in GPS system to show the real-time speed of your vehicle. It measures your current, maximum, and average speed, distance traveled and trip time.
+
+It can be used while walking or running as well as during car driving, bike riding, boating, etc. It is also Tripmeter and Odometer. It is designed as professional digital GPS speedometers.
+
+Key Features of an app are:
+» Analog & Digital Colorful LED Display
+» Keeps a record of Current, Maximum, Average Speed & Trip Timings
+» Over-speed Alerts (Warning Alarm)
+» Multiple Units (Kilometers (Km/h), Miles (mph), Nautical miles (knots))
+» Speed Fluctuation management
+» Save your track info
+» Enhanced Accuracy
+» Multiple Skins (Colors)
+
+GPS should be active to use the app. The accuracy of Speed may depend on mobile device hardware, weather conditions, obstructions, and the visibility of satellites.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+This App is developed at ASWDC by Parth Patel (146620307022), Diploma Engineering 5th Sem CE Student. ASWDC is Apps, Software, and Website Development Center @ Darshan Institute of Engineering & Technology, Rajkot run by Students & Staff of Computer Engineering Department
+
+Call us: +91 97277 47317
+Write to us: aswdc@darshan.ac.in
+Visit: http://www.aswdc.in http://www.darshan.ac.in
+
+Follow us on Facebook: https://www.facebook.com/DarshanInstitute.Official
+Follows us on Twitter: https://twitter.com/darshan_inst
